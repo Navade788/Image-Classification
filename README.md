@@ -6,7 +6,9 @@ To Develop a convolutional deep neural network for image classification and to v
 
 ## Problem Statement and Dataset
 
-Include the Problem Statement and Dataset.
+Image classification is a core problem in computer vision, where the goal is to assign an input image to one of several predefined categories. Unlike traditional machine learning methods that rely on handcrafted features, Convolutional Neural Networks (CNNs) automatically learn spatial features directly from pixel data.
+
+In this experiment, the task is to build a CNN model to classify handwritten digits (0–9) using the MNIST dataset, which consists of grayscale images of digits. The trained model will then be tested on unseen images to evaluate its performance.the FashionMNIST dataset into their respective categories. The trained model will then be tested on new/unseen images to verify its effectiveness.
 
 ## Neural Network Model
 
